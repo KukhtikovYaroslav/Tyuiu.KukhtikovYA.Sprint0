@@ -1,9 +1,10 @@
-﻿namespace Tyuiu.KukhtikovYA.Sprint0.Task0.V0;
-
-class Program
+﻿namespace Tyuiu.KukhtikovYA.Sprint0.Task0.V0
 {
-    static void Main(string[] args)
+    class Program
     {
+        static void Main(string[] args)
+        {
         
+        }
     }
 }
