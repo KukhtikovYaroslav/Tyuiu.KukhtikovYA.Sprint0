@@ -6,6 +6,7 @@
       &lt;TestId&gt;MSTest::5FC834DA-4C9E-47EF-8FCE-8F43721E7BA3::net8.0::Tyuiu.KukhtikovYA.Sprint0.Task4.V0.Test.DataServiceTest.CheckedDivisionValid&lt;/TestId&gt;
       &lt;TestId&gt;MSTest::8FD03532-0D81-4130-AF43-375F57E7DF70::net8.0::Tyuiu.KukhtikovYA.Sprint0.Task5.V0.Test.DataServiceTest&lt;/TestId&gt;
       &lt;TestId&gt;MSTest::C0835EAC-A028-4C93-BDDB-2F4F19EB5DCC::net8.0::Tyuiu.KukhtikovYA.Sprint0.Task6.V0.Test.DataServiceTest&lt;/TestId&gt;
+      &lt;TestId&gt;MSTest::6561A0E0-CA01-4137-AB99-8122FC00ABEA::net8.0::Tyuiu.KukhtikovYA.Sprint0.Task7.V0.Test.DataServiceTest.CheckAdditionArraysValid&lt;/TestId&gt;
     &lt;/TestAncestor&gt;
     &lt;ProjectFile&gt;7E34F854-9A1C-4A45-B32C-C7815B493757/f:DataServiceTest.cs&lt;/ProjectFile&gt;
   &lt;/Or&gt;
