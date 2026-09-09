@@ -3,6 +3,7 @@
   &lt;Or&gt;
     &lt;TestAncestor&gt;
       &lt;TestId&gt;MSTest::8C9FC546-7272-424D-9718-3BBAEE3E7CA4::net8.0::Tyuiu.KukhtikovYA.Sprint0.Task2.V0.Test.DataServiceTest&lt;/TestId&gt;
+      &lt;TestId&gt;MSTest::5FC834DA-4C9E-47EF-8FCE-8F43721E7BA3::net8.0::Tyuiu.KukhtikovYA.Sprint0.Task4.V0.Test.DataServiceTest.CheckedDivisionValid&lt;/TestId&gt;
     &lt;/TestAncestor&gt;
     &lt;ProjectFile&gt;7E34F854-9A1C-4A45-B32C-C7815B493757/f:DataServiceTest.cs&lt;/ProjectFile&gt;
   &lt;/Or&gt;
