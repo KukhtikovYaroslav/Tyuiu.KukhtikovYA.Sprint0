@@ -1,6 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5d7434b4_002D7f46_002D405c_002Dbcd4_002D191d4706edca/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DataServiceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;MSTest::8C9FC546-7272-424D-9718-3BBAEE3E7CA4::net8.0::Tyuiu.KukhtikovYA.Sprint0.Task2.V0.Test.DataServiceTest&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;MSTest::8C9FC546-7272-424D-9718-3BBAEE3E7CA4::net8.0::Tyuiu.KukhtikovYA.Sprint0.Task2.V0.Test.DataServiceTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;7E34F854-9A1C-4A45-B32C-C7815B493757/f:DataServiceTest.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
